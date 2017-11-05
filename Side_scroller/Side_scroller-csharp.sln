@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DC5D8FA4-AD46-9DCA-4153-260BCD3B6049}") = "Side_scroller", "Assembly-CSharp-vs.csproj", "{776934FE-A326-7BAE-4935-18ABD738C06A}"
+EndProject
+Project("{DC5D8FA4-AD46-9DCA-4153-260BCD3B6049}") = "Side_scroller", "Assembly-CSharp-Editor-vs.csproj", "{92AFDCE1-3BF7-DA67-95B9-FFECB0F79C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776934FE-A326-7BAE-4935-18ABD738C06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776934FE-A326-7BAE-4935-18ABD738C06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776934FE-A326-7BAE-4935-18ABD738C06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776934FE-A326-7BAE-4935-18ABD738C06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AFDCE1-3BF7-DA67-95B9-FFECB0F79C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AFDCE1-3BF7-DA67-95B9-FFECB0F79C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AFDCE1-3BF7-DA67-95B9-FFECB0F79C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AFDCE1-3BF7-DA67-95B9-FFECB0F79C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+			GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal

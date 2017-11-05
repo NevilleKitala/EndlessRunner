@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f6f875f568717408daecd1641719cc89
+timeCreated: 1504816136
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DCC - Sharp Distress Black
+  fontNames:
+  - DCC - Sharp Distress Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

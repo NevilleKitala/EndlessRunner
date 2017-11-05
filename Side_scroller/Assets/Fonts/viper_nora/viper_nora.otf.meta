@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 40917f48706a74c34be66e178796e75b
+timeCreated: 1504816155
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VIPER NORA
+  fontNames:
+  - VIPER NORA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
